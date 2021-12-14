@@ -1,0 +1,2 @@
+This code is a reproduction of the FS framework. For some special reasons, some results are slightly different from the original journal.
+Citation: Zhang T ,  Zhu T ,  Li J , et al. Fairness in Semi-supervised Learning: Unlabeled Data Help to Reduce Discrimination[J]. IEEE Transactions on Knowledge and Data Engineering, 2020.

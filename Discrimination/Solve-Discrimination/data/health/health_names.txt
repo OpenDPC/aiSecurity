@@ -1,0 +1,12 @@
+Years:Y1,Y2,Y3
+Specialty:Emergency,Internal,Other,Surgery
+PlaceSvc:Ambulance,Home,InpatientHospital,Other,OutpatientHospital,UrgentCare
+PayDelay:numeric
+LengthOfStay:1day,2days,3days,4days,5days,6days,1-2weeks,2-4weeks,4-8weeks
+DSFS:0-1month,1-2months,2-3months,3-4months,4-5months,5-6months,6-7months,7-8months,8-9months,9-10months,10-11months,11-12months
+PrimaryConditionGroup:AMI,APPCHOL,ARTHSPIN,CANCRB,COPD,FLaELEC,FXDISLC,GIBLEED,GIOBSENT,GYNEC1,HEART2,HEART4,HEMTOL,HIPFX,INFEC4,METAB1,METAB3,MISCHRT,MISCL1,MISCL5,MSC2a3,NEUMENT,ODaBNCA,PNEUM,PRGNCY,RESPR4,ROAMI,SEIZURE,SKNAUT,UTI
+ProcedureGroup:ANES,MED,RAD,SCS,SDS,SGS,SIS,SMS,SNS,SRS,SUS
+DaysInHospital_y2:numeric
+Age:5,25,35,45,55,65,75,85
+Gender:M,F
+label:numeric
